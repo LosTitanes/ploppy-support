@@ -2,7 +2,7 @@
 
 Static page hosting the Privacy Policy and support contact for the **Ploppy** iOS/watchOS app.
 
-Published via GitHub Pages at: https://lostitanes.github.io/Ploppy-Support/
+Published via GitHub Pages at: https://lostitanes.github.io/ploppy-support/
 
 ## Files
 - `index.html` — the page (privacy policy + support, no dependencies).
